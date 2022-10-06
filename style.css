@@ -28,7 +28,7 @@ h1 {
     
 }
 header {
-    background-color:white;
+    background-color:#F7F7F7;
 }
 body {
     padding: 0;
@@ -54,8 +54,11 @@ body {
     background-color: white;
   }
   
-  nav {
-    background-color: white;
+  /* nav {
+    background-image: url("best-doge.png");
+  } */
+  header {
+    background-color: #C1EAF2;
   }
 
   #doge {
@@ -66,8 +69,5 @@ body {
   -webkit-background-clip: text;
   text-fill-color: transparent;
   -webkit-text-fill-color: transparent;
-
   }
-  header {
-    background-image: "actual doge playing guitar.png";
-  }
+  
